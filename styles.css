@@ -1,0 +1,54 @@
+*{
+	width: 1000px;
+	position: center;
+	margin: auto;
+}
+body{
+	background: url(https://thuvien.gagoda.vn/wp-content/uploads/2019/10/TBM_PG_0006_RE.jpg);
+	background-attachment: fixed;
+}
+header,.main, footer{
+	float: center;
+	width: 90%;
+	margin: auto;
+	max-width: 1000px;
+	display: block;
+}
+h1{
+	color: #009999;
+	font-family: Times;	
+}
+.texto{
+	text-align: center;
+	background: rgba(255, 255, 255, .9);
+	border-radius: 30px;
+	font-family: sans-serif;
+}
+.thirdDiv img {
+	width: 400px;
+}
+.thirdDiv{ 
+    width: 500px;
+    height: 800px;
+	background:rgba(255,215,0, .2);
+	padding: 50px;
+	display: block;
+	float: 90%;
+    font-size: 20px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+span{ 
+    font-size: 18px;
+    margin: 50px;
+    background: rgba(245, 162, 53, .5);
+}
+footer{
+    bottom: 0;
+    right: 0;
+    height: 70px;
+    background: rgba(255, 255, 255, .9);
+    width: 100%;
+}
